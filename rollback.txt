@@ -2,3 +2,6 @@ def sayhi():
 	First changed
 	print('-----------')
 	Second changed
+
+def third():
+	print("Third change")
