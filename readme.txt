@@ -1,2 +1,2 @@
-added this line from branch feature 1
+this is from branch feature 1
 change from master
