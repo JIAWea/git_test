@@ -1,5 +1,12 @@
+//****************************
+change from github
 this is my fisrt time use git!
+<<<<<<< HEAD
 change second!
 //----------------------------
 change from git,before haven't git pull
 
+=======
+//-----------------------------
+change from github
+>>>>>>> 1c96e4c7e923e405e9ae4cb0a61db985df05b291
